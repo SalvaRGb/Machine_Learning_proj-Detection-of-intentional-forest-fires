@@ -1,6 +1,8 @@
 # Machine Learning project: Detection of intentional forest fires
 Comparison of the performance of some Machine Learning models for the task of detecting intentional forest fires in the Iberian Peninsula
 
+![](Data/generated_files/forest_fire.png)
+
 Spain has been characterized as having a great predisposition to experience strong fires, specially during the summer season (a fact experienced by most regions with a mediterranean climate). The impact of these fires extends beyond the obvious ecological catastrophe that they represent at a local level, local communities are aslo affected, provoking, in many ocassions, an irreparable damage to private and public property. At an economic level, forest fires have a great impact in some of the main sectors of these rural communities, extending the damage beyonde the geographic or ecological frame. 
 
 ***1.1 Data source***
